@@ -1,7 +1,7 @@
 1 - INTRODUCTION :
-    - This project (named host_app) is the main project of the micro-frontend application we intent develop
-    - So, this project will be responsible of displaying microfrontend
-    - This project (named host_app) is using native federation as micro-frontend developpement tool (instead of module federation)
+    - This project (host_app) is the main project of the micro-frontend application we intent develop
+    - So, it will be responsible of displaying the microfrontends
+    - It is using native federation as micro-frontend developpement tool (instead of module federation)
 
 2 -DEVELOPPEMENT ENVIRONNEMENT CARACTERISTICS :
     ng v
@@ -30,7 +30,7 @@
         @schematics/angular          17.0.0 (cli-only)
 
 3 - NOTE :
-    - If you have a look at git, you will sie that commits name are following step by step how the project has been built.
+    - If you have a look at git commit stack, you will see that commits comments are describing step by step how the project has been built.
 
 3 - DEVELOPPEMENT PROCESS : 
     - step1 : Create a folder named native_federation
